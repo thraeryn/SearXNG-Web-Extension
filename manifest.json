@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "SearXNG — Privacy Search Engine",
   "version": "1.4",
-  "author": "Erghel",
+  "author": "Thraeryn",
   "default_locale": "en",
   "description": "__MSG_extensionDescription__",
   "icons": {
