@@ -1,4 +1,4 @@
-# SearXNG-Web-Exstension (Unofficial)
+# SearXNG-Web-Extension (Unofficial)
 **SearXNG** is a free Internet metasearch engine that aggregates results from various search services and databases. Users are not tracked or profiled.
 
 [**SearXNG**](https://github.com/searxng/searxng) is a fork of [**SearX**](https://github.com/searx/searx).
@@ -26,7 +26,7 @@ Example:
 {
   "chrome_settings_overrides": {
     "search_provider": {
-      "search_url": "https://searx.be/search?q={searchTerms}"
+      "search_url": "https://search.thraeryn.red/search?q={searchTerms}"
     }
   }
 }
