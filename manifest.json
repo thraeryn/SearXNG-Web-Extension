@@ -19,7 +19,7 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "SearXNG",
-      "keyword": "@searxng, @searx, @sx",
+      "keyword": "@searxng, @searx, @sx, @red",
       "search_url": "https://search.thraeryn.red/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
       "suggest_url": "https://search.thraeryn.red/autocompleter?q={searchTerms}",
